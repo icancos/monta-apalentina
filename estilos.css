@@ -1,0 +1,109 @@
+body{
+  text-align: center;
+  color: #BFA26B;
+}
+
+h1{
+  font-family: 'Oxygen', sans-serif;
+  line-height: 2;
+}
+
+h2, h3, h4, p{
+  font-family: 'Mulish', sans-serif;
+}
+
+h2, p{
+  width: 30%;
+}
+
+div{
+  text-align: left;
+  margin: 100px 15%;
+}
+
+img{
+  width: 250px;
+}
+
+li{
+  font-family: 'Mulish', sans-serif;
+}
+
+.cabecera{
+  background-color: #517C8C;
+  text-align: center;
+  margin: 0 10% 50px;
+  border: 30px solid #517C8C;
+  color: #BFA26B;
+}
+
+.logo{
+  width: 10%;
+  margin-top: 30px;
+}
+
+.precios{
+  height: 350px;
+}
+
+.montaña{
+  width: 40%;
+  float: right;
+}
+
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background:#517C8C;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #88B5BF;
+  text-decoration: none;
+}
+
+.ponentes{
+  clear: both;
+  height: 600px;
+}
+
+.enero{
+  float: left;
+  margin: 50px 5%;
+  text-align: center;
+
+}
+
+.febrero{
+  float: left;
+  margin: 50px 5%;
+  text-align: center;
+}
+
+.marzo{
+  float: left;
+  margin: 50px 5%;
+  text-align: center;
+}
+
+.pepos{
+  width: 100%;
+}
+
+.pie{
+  background-color: #517C8C;
+  text-align: center;
+  margin: 50px 10%;
+  border: 30px solid #517C8C;
+}
+
+.fab{
+  color: #BFA26B;
+  margin: 0 10px;
+}
